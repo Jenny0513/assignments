@@ -35,9 +35,34 @@ div#container {
   padding: 50px 10px 50px 10px;
 }
 
-#p1 {
+#sec1 {
   border: 1px solid black;
   text-align: center;
+  background-color: #99B0F0;
+  font-size: 125%;
+  width: 100px;
+  height: 30px;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+#sec2 {
+  border: 1px solid black;
+  text-align: center;
+  background-color: #D883D6;
+  font-size: 125%;
+  width: 100px;
+  height: 30px;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+#sec3 {
+  border: 1px solid black;
+  text-align: center;
+  background-color: #7CD178;
   font-size: 125%;
   width: 100px;
   height: 30px;
