@@ -2,7 +2,7 @@
 /********** Base styles **********/
 
 html {
-  font-family: Broadway, Comic Sans MS, sans-serif; /* 1 */
+  font-family: Tempus Sans ITC, Comic Sans MS, sans-serif; /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
   -ms-text-size-adjust: 100%; /* 2 */
 }
