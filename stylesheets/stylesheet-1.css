@@ -23,7 +23,7 @@ h1 {
   text-align: center;
 }
 
-p {
+section {
   color: white;
 }
 
@@ -54,9 +54,9 @@ div#container {
 }
 
 /* Simple Responsive Framework. */
-.row {
+/* .row {
   width: 100%;
-}
+} */
 
 /********** Large devices only **********/
 @media (min-width: 992px) {
@@ -144,4 +144,15 @@ div#container {
   .col-md-12 {
     width: 100%;
   }
+}
+
+
+/********** Small devices only **********/
+@media (max-width: 767px) {
+  .col-sm-12 {
+    float: left;
+    padding: 10px;
+    width: 100%;
+  }
+
 }
