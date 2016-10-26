@@ -1,0 +1,50 @@
+body {
+  font-size: 14px;
+  background-color: #61122f;
+  font-family: 'Shadows Into Light', sans-serif;
+}
+
+/** HEADER **/
+
+#header-nav {
+  background-color: #F3DFCA;
+  border-radius: 0;
+  border: 0;
+  height: 70px;
+}
+
+.navbar-brand h1 { /* Restaurant name */
+  color: #832A0E;
+  font-size: 1.75em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin: 10px 0 10px 0;
+  padding-top: 0px;
+  line-height: .75;
+}
+
+
+#nav-list {
+  margin: 5px 0px 5px 0px;
+  background-color: #F3DFCA;
+}
+#nav-list a {
+  color: #832A0E;
+  text-align: center;
+  font-size: 1.6em;
+  font-weight: bold;
+}
+
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #832A0E;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+.navbar-collapse {
+  padding-left: -15px;
+  padding-right: -15px;
+}

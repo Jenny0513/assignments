@@ -1,0 +1,61 @@
+body {
+  font-size: 14px;
+  color: #fff;
+  background-color: #BA3F2B;
+  font-family: 'Gloria Hallelujah', sans-serif;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #F3DFCA;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand {
+  padding-top: 20px;
+}
+
+.navbar-brand h1 { /* Restaurant name */
+  font-family: 'Architects Daughter', serif;
+  color: #832A0E;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+#nav-list {
+  /**margin-top: 10px;**/
+}
+
+#nav-list a {
+  color: #832A0E;
+  text-align: center;
+  font-weight: bold;  
+  border: 1px solid #832A0E;
+}
+
+#nav-list a:hover {
+  background: #F8EAF1;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #832A0E;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+/* END HEADER */
+
+#home-section {
+  background-color: #F1948A;
+  margin: 10px;
+  height: 1000px;
+}
