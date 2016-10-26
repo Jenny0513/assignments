@@ -1,5 +1,5 @@
 body {
-  font-size: 14px;
+  font-size: 16px;
   color: #fff;
   background-color: #BA3F2B;
   font-family: 'Gloria Hallelujah', sans-serif;
@@ -69,5 +69,5 @@ body {
 #home-section {
   background-color: #F1948A;
   margin: 10px;
-  height: 1000px;
+  height: auto;
 }
