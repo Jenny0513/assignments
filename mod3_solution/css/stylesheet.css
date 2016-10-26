@@ -38,11 +38,23 @@ body {
   color: #832A0E;
   text-align: center;
   font-weight: bold;  
-  border: 1px solid #832A0E;
+  /**border: 1px solid #832A0E;**/
 }
 
 #nav-list a:hover {
   background: #F8EAF1;
+}
+
+#chi {
+  background-color: #EFCFF5;
+}
+
+#beef {
+  background-color: #E4F5CF;
+}
+
+#sushi {
+  background-color: #CFF4F5;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
