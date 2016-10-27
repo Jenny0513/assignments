@@ -1,7 +1,7 @@
 body {
   font-size: 16px;
   color: #fff;
-  background-color: #BA3F2B;
+  background-color: #F1948A;
   font-family: 'Gloria Hallelujah', sans-serif;
 }
 
@@ -79,6 +79,7 @@ body {
   border: 2px solid #832A0E;
   overflow: hidden;
   padding: 10px;
+  background-color: #90BAC4;
 }
 
 #back-home {
