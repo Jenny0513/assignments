@@ -27,4 +27,4 @@ byeSpeaker.speak = function () {
 
 window.byeSepaker = byeSpeaker;
 
-}(window);
+})(window);
