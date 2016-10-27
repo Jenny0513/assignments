@@ -38,23 +38,12 @@ body {
   color: #832A0E;
   text-align: center;
   font-weight: bold;  
-  /**border: 1px solid #832A0E;**/
+  background-color: #EFCFF5;
+  border: 1px solid #832A0E;
 }
 
 #nav-list a:hover {
   background: #F8EAF1;
-}
-
-#chi {
-  background-color: #EFCFF5;
-}
-
-#beef {
-  background-color: #E4F5CF;
-}
-
-#sushi {
-  background-color: #CFF4F5;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
@@ -66,8 +55,42 @@ body {
 }
 /* END HEADER */
 
+/* HOME PAGE */
+
 #home-section {
   background-color: #F1948A;
   margin: 10px;
   height: auto;
+}
+
+#main-content {
+  background-color: #F1948A;
+}
+
+#home-section1 {
+  margin: 20px 10px 20px 10px;
+}
+
+#chi-sec, #beef-sec, #sushi-sec {
+  height: auto;
+  width: 100%;
+  margin-bottom: 15px;
+  position: relative;
+  border: 2px solid #832A0E;
+  overflow: hidden;
+  padding: 10px;
+}
+
+#back-home {
+  font-family: 'Architects Daughter', serif;
+  text-align: right;
+}
+
+#back-home a {
+  color: #F9FD9E;
+  font-weight: bold;  
+}
+
+#back-home a:hover {
+  color: #F2FD08;
 }
