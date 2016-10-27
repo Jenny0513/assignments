@@ -61,6 +61,8 @@ body {
   background-color: #F1948A;
   margin: 10px;
   height: auto;
+    border: 2px solid #832A0E;
+    background-color: #90BAC4;
 }
 
 #main-content {
